@@ -23,8 +23,7 @@ This Learning Path is your easy reference to mastering Rust programming. It begi
 
 ### Hardware requirements
 For an optimal student experience, we recommend the following hardware configuration:
-* **Processor**: SSE2 instruction set support
-* **GPU**: Graphics card with DX10 (shader model 4.0) capabilities
+* **Processor**: 2.6 GHz or higher multi-core processor
 * **Memory**: 8GB RAM
 * **Hard disk**: 30GB or more
 * An Internet connection
