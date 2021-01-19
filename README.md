@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/the-complete-rust-programming-reference-guide/9781838828103)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/The-Complete-Rust-Programming-Reference-Guide.svg)](https://github.com/PacktPublishing/The-Complete-Rust-Programming-Reference-Guide/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/The-Complete-Rust-Programming-Reference-Guide.svg)](https://github.com/PacktPublishing/The-Complete-Rust-Programming-Reference-Guide/network)
 [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/The-Complete-Rust-Programming-Reference-Guide.svg)](https://github.com/PacktPublishing/The-Complete-Rust-Programming-Reference-Guide/stargazers)
