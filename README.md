@@ -36,3 +36,7 @@ You'll also need the following software installed:
 * Rust support for Visual Studio Code via a plugin (https://github.com/rust-lang/rls-vscode)
 * Rust Language Server (RLS), found at https://github.com/rust-lang/rls-vscode, installed via rustup (https://rustup.rs/)
 * Debugging support using the LLDB frontend plugin (https://github.com/vadimcn/vscode-lldb) for Visual Studio Code
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838828103">https://packt.link/free-ebook/9781838828103 </a> </p>
